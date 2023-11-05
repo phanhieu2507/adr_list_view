@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Gmail</string>
+    <string name="sender1">Phan Cong Hieu</string>
+    <string name="sender2">Phan Cong Hieu</string>
+    <string name="sender3">Phan Cong Hieu</string>
+    <string name="sender4">Phan Cong Hieu</string>
+    <string name="sender5">Phan</string>
+    <string name="sender6">Hieu</string>
+    <string name="sender7">hieu.pc204969@gmail.com</string>
+    <string name="sender8">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender9">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender10">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender11">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender12">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender13">hieu.pc204969@sis.hust.edu.vn</string>
+    <string name="sender14">hieu.pc204969@gmail.com</string>
+    <string name="sender15">hieu.pc204969@gmail.com</string>
+
+
+    <string name="title1">$19 Only(First 10 spots) - Betselling</string>
+    <string name="title2">Help make Campaign Monitor better</string>
+    <string name="title3">8h de formation gratuite et les nouvear </string>
+    <string name="title4">societe Ovh : suivi de vos services-hp</string>
+    <string name="title5">The New Ionic Creator Is Here!</string>
+    <string name="title6">Greeting started</string>
+    <string name="title7">Homework 1</string>
+    <string name="title8">The 6th android application</string>
+    <string name="title9">$19 Only(First 10 spots) - Betselling</string>
+    <string name="title10">Help make Campaign Monitor better</string>
+    <string name="title11">8h de formation gratuite et les nouvear </string>
+    <string name="title12">societe Ovh : suivi de vos services-hp</string>
+    <string name="title13">The New Ionic Creator Is Here!</string>
+    <string name="title14">Greeting started</string>
+    <string name="title15">Homework 1</string>
+
+    <string name="content1">Are you looking to Learn Web Designing</string>
+    <string name="content2">Are you looking to Learn Web Deigning</string>
+    <string name="content3">Are you looking to Learn Web Deignin…</string>
+    <string name="content4">Are you looking to Learn Web Deignin…</string>
+    <string name="content5">Are you looking to Learn Web Deignin…</string>
+    <string name="content6">Are you looking to Learn Web Deignin…</string>
+    <string name="content7">Are you looking to Learn Web Deignin…</string>
+    <string name="content8">Are you looking to Learn Web Deignin…</string>
+    <string name="content9">Are you looking to Learn Web Designing</string>
+    <string name="content10">Are you looking to Learn Web Deigning</string>
+    <string name="content11">Are you looking to Learn Web Deignin…</string>
+    <string name="content12">Are you looking to Learn Web Deignin…</string>
+    <string name="content13">Are you looking to Learn Web Deignin…</string>
+    <string name="content14">Are you looking to Learn Web Deignin…</string>
+    <string name="content15">Are you looking to Learn Web Deignin…</string>
+
+    <string name="time1">12:35PM</string>
+    <string name="time2">11:22AM</string>
+    <string name="time3">11:04AM</string>
+    <string name="time4">10:03AM</string>
+    <string name="time5">9:06AM</string>
+    <string name="time6">12:00PM</string>
+    <string name="time7">10:30PM</string>
+    <string name="time8">10:00AM</string>
+    <string name="time9">10:00AM</string>
+    <string name="time10">10:00AM</string>
+    <string name="time11">10:00AM</string>
+    <string name="time12">10:00AM</string>
+    <string name="time13">10:00AM</string>
+    <string name="time14">10:00AM</string>
+    <string name="time15">10:00AM</string>
+
+</resources>
